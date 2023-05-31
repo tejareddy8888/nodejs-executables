@@ -1,7 +1,7 @@
 # Mnemonic-To-PrivateKey Executable
 
-The Script can be used to extract your privateKey from the given mnemonic.
-To View the code base please check the file `index.js` in the repository.
+The script can be used to extract your privateKey from the given mnemonic.
+To view the code base, please check the file `index.js` in the repository which is pretty basic.
 
 Please download the repository by clicking on button on top `<> Code`, then clicking on `Download Zip`.
 
