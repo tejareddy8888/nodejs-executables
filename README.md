@@ -3,10 +3,9 @@
 The Script can be used to extract your privateKey from the given mnemonic.
 To View the code base please check the file `index.js` in the repository.
 
-Please download the repository by clicking on button `<> Code` then clicking on `Download Zip`.
+Please download the repository by clicking on button on top `<> Code`, then clicking on `Download Zip`.
 
 Extract the Zip in your device. 
-
 
 ### If you are executing the script from Linux device: 
 Please run the below command in your terminal:
