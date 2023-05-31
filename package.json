@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-executables",
+  "bin": "index.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --mnemonic",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejareddy8888/nodejs-executables.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.0.3",
+    "ethers": "^5.7.0",
+    "pkg": "^5.8.1"
+  }
+}
