@@ -26,6 +26,9 @@ The script can be used to extract your privateKey from the given mnemonic. To vi
   ```
 
 ### If you are executing the script from a Window device: 
+1. Open Command Prompt
+2. Change the directory to the  `nodejs-executables-main`
+3. Please run the below command in your command prompt:
 ```bash
 nodejs-executables-win.exe --mnemonic "<YOUR MNEMONIC>"
 ```
