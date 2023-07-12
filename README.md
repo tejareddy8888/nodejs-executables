@@ -9,17 +9,21 @@ The script can be used to extract your privateKey from the given mnemonic. To vi
 
 ## Usage
 ### If you are executing the script from a Linux device: 
-Please run the below command in your terminal:
-```bash
-./nodejs-executables-linux --mnemonic "<YOUR MNEMONIC>"
-```
+1. Open terminal
+2. Change the directory to the  `nodejs-executables-main`
+3. Please run the below command in your terminal:
+  ```bash
+  ./nodejs-executables-linux --mnemonic "<YOUR MNEMONIC>"
+  ```
 
 
 ### If you are executing the script from a Mac device: 
-Please run the below command in your terminal:
-```bash
-./nodejs-executables-macos --mnemonic "<YOUR MNEMONIC>"
-```
+1. Open terminal
+2. Change the directory to the  `nodejs-executables-main`
+3. Please run the below command in your terminal:
+  ```bash
+  ./nodejs-executables-macos --mnemonic "<YOUR MNEMONIC>"
+  ```
 
 ### If you are executing the script from a Window device: 
 ```bash
