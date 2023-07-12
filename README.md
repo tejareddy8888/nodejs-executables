@@ -1,26 +1,27 @@
-# Mnemonic-To-PrivateKey Executable
+# An Executable to Extract Mnemonic-To-PrivateKey
 
-The script can be used to extract your privateKey from the given mnemonic.
-To view the code base, please check the file `index.js` in the repository which is pretty basic.
+The script can be used to extract your privateKey from the given mnemonic. To view the code base, please check the file `index.js` in the pretty basic repository.
 
-Please download the repository by clicking on button on top `<> Code`, then clicking on `Download Zip`.
+## Install
+1. Please download the repository by clicking on the button on top, `<> Code` and then clicking on `Download Zip`.
 
-Extract the Zip in your device. 
+2. Extract the Zip in your device. 
 
-### If you are executing the script from Linux device: 
+## Usage
+### If you are executing the script from a Linux device: 
 Please run the below command in your terminal:
 ```bash
 ./nodejs-executables-linux --mnemonic "<YOUR MNEMONIC>"
 ```
 
 
-### If you are executing the script from Mac device: 
+### If you are executing the script from a Mac device: 
 Please run the below command in your terminal:
 ```bash
 ./nodejs-executables-macos --mnemonic "<YOUR MNEMONIC>"
 ```
 
-### If you are executing the script from Window device: 
+### If you are executing the script from a Window device: 
 ```bash
 nodejs-executables-win.exe --mnemonic "<YOUR MNEMONIC>"
 ```
